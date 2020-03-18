@@ -1,0 +1,169 @@
+    body {
+      margin: 0;
+      text-align: center;
+      background-color: #d2d2d2
+    }
+
+    h3 , h2 ,h1 ,h4 {
+
+      font-family: 'Cinzel' , serif;
+      color: #0f4c81;
+    }
+
+    .dev_kis{
+      width: 50%;
+      margin: auto;
+    }
+
+    .profile {
+
+      font-family: 'Roboto', sans-serif;
+      width: 50%;
+      margin: auto;
+
+    }
+
+    .me{
+      font-family: 'Press Start 2P', cursive;
+      color: #0f4c81;
+      font-size: 3rem;
+      margin: 0 0 0 0 ;
+    /*font-family: 'Open Sans', sans-serif;*/
+    /*font-family: 'Open Sans', sans-serif;*/
+    }
+    .I_AM {
+      font-family: 'Cinzel', serif;
+      color: #0f4c81;
+      font-size: 1.4rem;
+        margin: 2.5% 0 0 0 ;
+        font-weight: normal;
+    }
+    .top-cloud {
+    position:relative;
+    margin-left: 60%;
+    }
+    .bottom-cloud{
+      position: relative;
+      margin-left: -60%;
+    }
+    .profile {
+
+    }
+    .top-container {
+      background-color: #1b262c;
+      position: relative;
+      padding-top: 20px;
+    }
+
+    .pro {
+      text-decoration: underline;
+    }
+    .middle-container {
+
+    }
+
+    .webdev_icon{
+
+      float: left;
+      width: 15%;
+      margin-right: 30px;
+    /*  margin: 100px auto 100px auto;*/
+    }
+
+    .javase_icon{
+      float: right;
+      width: 25%;
+      margin-left:30px;
+
+    }
+
+    .mysql_icon{
+      float: left;
+      width: 25%;
+      margin-right: 30px;
+    }
+
+    .linux_icon{
+      float: right;
+      width: 25%;
+      margin-left:30px;
+    }
+
+    .servicenow_icon{
+      float: left;
+      width: 25%;
+      margin-right: 30px;
+    }
+
+    .javascript_icon{
+      float: right;
+      width: 25%;
+      margin-right: 30px;
+    }
+
+    .skill_icon{
+
+      width: 25%;
+      margin: 100px auto 100px auto;
+    }
+
+    .skills{
+      font-family: 'Roboto', sans-serif;
+    }
+
+    .skill-row{
+
+      width: 55%;
+      margin: auto;
+      text-align: left;
+      line-height: 2;
+      margin-bottom: 150px;
+      position:sticky;
+    }
+
+    .dot_mark {
+      width: 7%;
+      margin: auto;
+      border-top: 5px dotted #1b262c;
+    }
+
+    .contact-me{
+          font-family: 'Roboto', sans-serif;
+            margin-bottom: 60px;
+    }
+
+
+  .bottom-container{
+    background-color: #ffa372;
+
+    margin: auto;
+  }
+
+
+  .button {
+    border-radius: 12px;
+    background-color: #0f4c81;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  .footer-link{
+    font-family: 'Roboto', sans-serif;
+    color: #0f4c81;
+    text-decoration: none;
+    margin: auto;
+    margin-right: 2.5%;
+    margin-left: 2.5%;
+
+  }
+.end{
+  font-family: 'Roboto', sans-serif,cursive;
+  color: white;
+}
